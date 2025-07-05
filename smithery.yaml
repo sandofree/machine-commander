@@ -1,3 +1,0 @@
-runtime: "uvx"
-startCommand:
-  type: "stdio"

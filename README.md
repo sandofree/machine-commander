@@ -7,7 +7,7 @@ MachineCommander is an IoT system to manage all the construction machines workin
     "mcpServers": {
         "MachineCommander": {
             "command": "uvx",
-            "args": ["machinecommander"],
+            "args": ["machinecommander"]
         }
     }
 }
